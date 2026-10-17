@@ -213,4 +213,4 @@ Ghi những điều này vào một file `references/<du-an>.md` mới theo mẫ
 
 ---
 
-Phát hành công khai bởi ASK Training / OPC AIOS. Thông tin hạ tầng (máy chủ, đường dẫn) đã được thay bằng biến môi trường.
+Phát hành bởi ASK Training / OPC AIOS theo giấy phép [MIT](LICENSE) — được tự do dùng, sửa, phân phối, kể cả thương mại, miễn giữ thông báo bản quyền. Thông tin hạ tầng (máy chủ, đường dẫn) đã được thay bằng biến môi trường.
