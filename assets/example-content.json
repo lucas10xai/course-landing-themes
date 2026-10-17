@@ -1,0 +1,121 @@
+{
+ "theme": "network",
+ "logoUrl": "/landing/az/logo.webp",
+ "iconUrl": "/landing/icons/kinh-doanh-he-thong.png",
+ "headline": "Được thiết kế dành riêng cho các anh/chị đang kinh doanh và phát triển đội ngũ bán hàng qua hệ thống",
+ "subheadline": "Chiến lược tuyển dụng, nhân bản và truyền lửa cho mạng lưới hàng trăm, hàng ngàn đại lý kinh doanh phân phối.",
+ "ctaLabel": "Đăng ký tư vấn",
+ "painPoints": [
+  "Tuyển đại lý, cộng tác viên mãi mà không giữ được người",
+  "Người mới vào không ra kết quả, nản rồi bỏ cuộc",
+  "Đội nhóm mất lửa sau vài tháng đầu",
+  "Chính sách trả thưởng gây xung đột trong hệ thống",
+  "Hệ thống phụ thuộc vào vài người, chưa tự nhân bản được"
+ ],
+ "bullets": [
+  "Công thức tuyển sỉ và đại lý không cạn nguồn khách hàng",
+  "Bộ quy trình đào tạo hội nhập cho người mới ra kết quả trong 7 ngày đầu",
+  "Chiến lược kích hoạt năng lượng và duy trì lửa chiến đấu cho đội nhóm",
+  "Chính sách trả thưởng và quản trị xung đột trong hệ thống"
+ ],
+ "curriculum": [
+  {
+   "title": "Module 1: Tuyển dụng thần tốc & Giữ chân thủ lĩnh",
+   "lessons": [
+    "Chân dung đại lý lý tưởng",
+    "Phễu tuyển sỉ tự động"
+   ]
+  },
+  {
+   "title": "Module 2: Đóng gói quy trình chuyển giao",
+   "lessons": [
+    "Tài liệu hóa quy trình bán lẻ cho đại lý",
+    "Văn hóa đội ngũ gắn kết"
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Khóa học diễn ra như thế nào?",
+   "a": "Kinh Doanh Hệ Thống Từ A-Z là khóa học online chuyên sâu. Tư vấn viên ASK sẽ gửi lịch học và hướng dẫn tham gia sau khi bạn đăng ký."
+  },
+  {
+   "q": "Khóa học phù hợp với ai?",
+   "a": "Boss hệ thống, nhà phân phối, leader đội nhóm đang kinh doanh mỹ phẩm, thực phẩm chức năng, bảo hiểm hoặc hệ thống phân phối."
+  },
+  {
+   "q": "Ai là người giảng dạy?",
+   "a": "Diễn giả Phạm Ngọc Anh (Mr. Why) — người từng lãnh đạo đội nhóm bán hàng tạo doanh thu trên 100 tỷ mỗi năm với 10.000 thành viên."
+  },
+  {
+   "q": "Đăng ký xong thì làm gì tiếp theo?",
+   "a": "Tư vấn viên ASK sẽ liên hệ qua điện thoại hoặc Zalo để tư vấn, xác nhận lịch học và hướng dẫn hoàn tất học phí."
+  }
+ ],
+ "extra": {
+  "kicker": "Kinh Doanh Hệ Thống Từ A-Z · Khóa học online chuyên sâu",
+  "tagline": "Chiến lược tuyển dụng, nhân bản và truyền lửa cho mạng lưới hàng trăm, hàng ngàn đại lý kinh doanh phân phối.",
+  "story": "Thầy Phạm Ngọc Anh từng lãnh đạo đội nhóm bán hàng tạo doanh thu trên 100 tỷ mỗi năm với hơn 10.000 thành viên. Khóa học đúc kết công thức vận hành một hệ thống bền vững — tự tuyển, tự đào tạo, tự nhân bản.",
+  "audience": [
+   {
+    "t": "Boss hệ thống",
+    "d": "Muốn hệ thống tự vận hành, không phụ thuộc vài người."
+   },
+   {
+    "t": "Nhà phân phối",
+    "d": "Cần tuyển sỉ, đại lý đều đặn và giữ chân được người."
+   },
+   {
+    "t": "Leader đội nhóm",
+    "d": "Muốn giữ lửa, đào tạo người mới ra kết quả nhanh."
+   }
+  ],
+  "facts": [
+   [
+    "Hình thức",
+    "khóa học online chuyên sâu"
+   ],
+   [
+    "Người dẫn dắt",
+    "Diễn giả Phạm Ngọc Anh (Mr. Why)"
+   ],
+   [
+    "Trọng tâm",
+    "tuyển dụng – đào tạo – nhân bản – giữ lửa"
+   ]
+  ],
+  "bigWords": [
+   "Tuyển dụng",
+   "Đào tạo",
+   "Nhân bản",
+   "Giữ lửa"
+  ],
+  "closing": "Xây hệ thống tự vận hành — nhân bản thành công.",
+  "speaker": {
+   "name": "Phạm Ngọc Anh (Mr. Why)",
+   "title": "Chủ tịch ASK Training · Doanh nhân · Nhà đào tạo · Cố vấn",
+   "photo": "/landing/sales/speaker.jpg",
+   "credentials": [
+    "Lãnh đạo đội nhóm bán hàng tạo doanh thu trên 100 tỷ mỗi năm với 10.000 thành viên",
+    "Cố vấn cấp cao về Bán hàng – Marketing cho hàng ngàn tổ chức, doanh nghiệp",
+    "Trực tiếp huấn luyện trên 200.000 học viên về khởi nghiệp, bán hàng, kinh doanh, nói trước công chúng",
+    "Tác giả sách “Thức Giấc Ngủ Đông”; dịch giả “Tiền không phải là vấn đề” (Bob Proctor)",
+    "Quán quân gameshow “Chìa khóa thành công” năm 2007"
+   ]
+  },
+  "stats": [
+   [
+    "200.000+",
+    "học viên đã huấn luyện"
+   ],
+   [
+    "100 tỷ+",
+    "doanh thu/năm đội nhóm từng dẫn dắt"
+   ]
+  ],
+  "contact": {
+   "hotline": "0384505050",
+   "email": "info@ask.com.vn"
+  }
+ }
+}
